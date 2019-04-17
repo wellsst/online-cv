@@ -1,6 +1,6 @@
-Based with gratitude on the following...
+The output to my resume is here: [https://wellsst.github.io/online-cv/](https://wellsst.github.io/online-cv/)
 
-The output to my reume is here: [https://wellsst.github.io/online-cv/](https://wellsst.github.io/online-cv/)
+Based, with gratitude, on the following work...
 
 <a href="https://jekyll-themes.com">
 <img src="https://img.shields.io/badge/featured%20on-JT-red.svg" height="20" alt="Jekyll Themes Shield" >
