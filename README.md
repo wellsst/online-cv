@@ -6,6 +6,17 @@ Based, with gratitude, on the following work...
 <img src="https://img.shields.io/badge/featured%20on-JT-red.svg" height="20" alt="Jekyll Themes Shield" >
 </a>
 
+Notes for managing PDF:
+
+PDF is generated with the genpdf.bat file which uses wkhtmltopdf.  There are many other options that I tried but this ended up being about the best.  It's not perfect but the only outstanding thing that would be nice is to have a page break after the most recent job.  Page breaks work with the print.scss changes I made and running with --print-media-type...but it doesn't print out a lof things, like colour!  I tried messing with the css and wk options but have not yet found a solution
+
+Icons and the Skills would not generate with the locally running jekyll, so you have to push to the remote, wait for github to update (< 30 secs typically), and run wkhtmltopdf on the remote server
+
+I disabled the footer for PDF as it just wasn't looking good
+
+Bottom line: online resumes look great and are easy to maintain until it comes time to PDF it...which is what so many recruiters still require...this makes sense since a good printed version is what will be used in your interview etc.
+
+
 # Orbit
 > This theme is designed by Xiaoying Riley at [3rd Wave Media](http://themes.3rdwavemedia.com/). 
 > Visit her [website](http://themes.3rdwavemedia.com/) for more themes.
